@@ -4852,7 +4852,7 @@ karma-webpack@^4.0.0-rc.2:
     source-map "^0.5.6"
     webpack-dev-middleware "^3.2.0"
 
-karma@^3.1.1:
+karma@^3.1.4:
   version "3.1.4"
   resolved "https://registry.yarnpkg.com/karma/-/karma-3.1.4.tgz#3890ca9722b10d1d14b726e1335931455788499e"
   integrity sha512-31Vo8Qr5glN+dZEVIpnPCxEGleqE0EY6CtC2X9TagRV3rRQ3SNrvfhddICkJgUK3AgqpeKSZau03QumTGhGoSw==
@@ -8407,8 +8407,3 @@ yorkie@^2.0.0:
     is-ci "^1.0.10"
     normalize-path "^1.0.0"
     strip-indent "^2.0.0"
-    
-    
-    
-    
-
